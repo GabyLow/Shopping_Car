@@ -20,4 +20,7 @@ HTML: Para la estructura y presentación de la página web.
 
 CSS: Para el estilo y diseño visual de la interfaz.
 
+Ver proyecto en vivo:
+https://gabylow.github.io/Shopping_Car/
+
 ![foto-shopping-car](https://github.com/GabyLow/Shopping_Car/assets/127358083/bed07fac-7c5a-4fe4-a8b7-60a8ffa4490c)
