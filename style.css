@@ -11,11 +11,8 @@ h2{
     background-color: #161616;
 }
 
-header{
-    background: url(images/banner-shoes.png);
-    background-size: cover;
-    background-position: center;
-    height: 200px;
+.banner {
+    width: 100%;   
 }
 
 /* Sección Items*/
@@ -220,6 +217,7 @@ header{
 
 /* Sección Responsive*/
 
+
 @media screen and (max-width:850px) {
     .contenedor{
         display: block;
@@ -229,6 +227,5 @@ header{
     }
     .carrito{
        width: 100%; 
-    }
-    
+    }   
 }
